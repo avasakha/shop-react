@@ -1,0 +1,9 @@
+.cart{
+    padding: 3px;
+    background: #faebd7;
+    margin-right: 3em;
+    text-align: right;
+}
+.cart button {
+    margin: 3px;
+}

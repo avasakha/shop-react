@@ -1,0 +1,14 @@
+.product{
+    padding: 1em;
+    margin: 1em;
+    max-width: 25%;
+    background: #ffffff;
+    border:1px solid #7c4dfd ;
+}
+.product img {
+    width: 75%;
+    margin: 0px;
+}
+.price{
+    color: rgb(20, 158, 73);
+}
